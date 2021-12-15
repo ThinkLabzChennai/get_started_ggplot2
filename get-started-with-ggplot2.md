@@ -27,7 +27,7 @@ The aim of this notes is to get familiar with grammar of graphics to make use of
 
 
 ## ggplot2    
-ggplot2 is one of the packages which comes with tidyverse([A package for Data Science](https://rpubs.com/Thinklabz/intro_to_tidyverse)) 
+ggplot2 is one of the packages which comes with tidyverse([A package for Data Science](https://github.com/ThinkLabzChennai/Tidyverse_intro/blob/main/Introduction-to-Tidyverse.md)) 
 The purpose of visualization is getting insight about data. Data visualization have made simple using ggplot2.   
 ggplot2 works based on the idea called grammar of graphics, which means we have to consider following components while creating plots.
    
